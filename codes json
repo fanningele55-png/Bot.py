@@ -1,16 +1,20 @@
 {
-  "48291057384629103475": {"value": 20, "used": false},
-  "73920148567392018465": {"value": 20, "used": false},
-  "28475910293847561023": {"value": 20, "used": false},
-  "95847510293847561023": {"value": 20, "used": false},
-  "10293847561029384756": {"value": 50, "used": false},
-  "39284756102938475612": {"value": 50, "used": false},
-  "84756102938475612034": {"value": 50, "used": false},
-  "56473829102938475612": {"value": 100, "used": false},
-  "47561029384756102384": {"value": 100, "used": false},
-  "61029384756102384756": {"value": 100, "used": false},
-  "83746510293847561023": {"value": 200, "used": false},
-  "10293847561023475869": {"value": 200, "used": false},
-  "19283746510293847560": {"value": 500, "used": false},
-  "99887766554433221100": {"value": 500, "used": false}
+  "plans": [
+    {
+      "value": 100,
+      "status": true
+    },
+    {
+      "value": 500,
+      "status": true
+    },
+    {
+      "value": 1000,
+      "status": true
+    },
+    {
+      "value": 5000,
+      "status": false
+    }
+  ]
 }
